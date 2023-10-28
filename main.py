@@ -34,7 +34,8 @@ app = FastAPI(
     title="강의와 노트",
     version="1.0.0",
     summary="유튜브 강의를 보며 노트 작성",
-    docs_url="/api/docs"
+    docs_url="/api/docs",
+    openapi_url="/api/openapi.json"
 )
 
 
