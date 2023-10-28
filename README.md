@@ -2,7 +2,7 @@
 유튜브 영상을 보며 필기할 수 있는 서비스입니다. 
 
 ## 링크
-* [웹페이지](https://lecutre.kesuna.com)
+* [웹페이지](https://lecture.kesuna.com)
   * [깃허브](https://github.com/kkyubrother/lecture_with_note_web)
 * [서버 Swagger](https://lecture.kesuna.com/api/docs)
   * [깃허브](https://github.com/kkyubrother/lecture_with_note_server)
