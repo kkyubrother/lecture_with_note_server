@@ -30,7 +30,12 @@ class NewNoteRequest(BaseModel):
     indexed_playtime: Optional[int]
 
 
-app = FastAPI()
+app = FastAPI(
+    title="강의와 노트",
+    version="1.0.0",
+    summary="유튜브 강의를 보며 노트 작성",
+    docs_url="/api/docs"
+)
 
 
 origins = [
